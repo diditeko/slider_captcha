@@ -1,0 +1,10 @@
+numpy
+torch>=1.0
+torchvision
+tensorflow
+tensorboard
+terminaltables
+pillow
+tqdm
+opencv-python
+scikit-learn
